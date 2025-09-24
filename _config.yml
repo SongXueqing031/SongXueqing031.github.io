@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: 宋
+title: 宋雪青 # the website title (if blank, full name will be used instead)
+first_name: 
 middle_name: 
-last_name: 雪青
+last_name: 
 email: 522025110038@nju.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   南京大学新闻传播学院数字营销方向25级研究生
