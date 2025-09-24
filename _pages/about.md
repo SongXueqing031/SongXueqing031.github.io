@@ -5,8 +5,7 @@ permalink: /
 subtitle: 南大新传
 profile:
   align: right
-  image: images/photo.jpg
-  image_circular: true # crops the image to make it circular
+
   address: 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
