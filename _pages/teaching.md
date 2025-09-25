@@ -2,14 +2,12 @@
 layout: page
 permalink: /其他/
 title: 其他
-description: Kindle the fire in your heart. 
+description:  
 nav: true
 nav_order: 5
 ---
 
-## 
-
-无
+努力丰富中
 
 <br>
 <a href="https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/teaching.md">
