@@ -19,7 +19,6 @@ social: false  # includes social icons at the bottom of the page
 - 音乐🎵
 - 游戏🎮
 
-<img src="https://user-images.githubusercontent.com/543384/178952701-6e595809-3059-41d4-9d88-356a9b339445.png" align = "middle" width = "800px">
 
 
 <br>
